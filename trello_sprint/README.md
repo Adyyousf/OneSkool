@@ -1,4 +1,4 @@
-# A Python project to scrape a web page using the scrapy framework.
+# A Python Program to scrape a web page using the scrapy framework.
 
 ## How to?:
 > Go to the project’s trello_sprint/trello_sprint directory and run ```scrapy crawl myspider``` to set the spider to work.
